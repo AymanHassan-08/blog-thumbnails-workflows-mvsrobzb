@@ -1,0 +1,14 @@
+{
+  "gemini-3-pro-image-preview": {
+    "name": "Gemini 3 Pro Preview",
+    "provider": "google"
+  },
+  "gpt-image-1": {
+    "name": "GPT-Image-1",
+    "provider": "openai"
+  },
+  "gpt-image-2": {
+    "name": "GPT-Image-2",
+    "provider": "openai"
+  }
+}
